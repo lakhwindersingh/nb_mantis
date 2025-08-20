@@ -1,0 +1,27 @@
+# Core dependencies
+opencv-python>=4.8.0
+mediapipe>=0.10.0
+numpy>=1.21.0
+pillow>=9.0.0
+# AI/ML dependencies
+torch>=2.0.0
+torchvision>=0.15.0
+diffusers>=0.20.0
+transformers>=4.30.0
+# Video processing
+moviepy>=1.0.3
+imageio>=2.25.0
+pygame==2.6.0
+mediapipe>=0.10.0
+# Utilities
+pydantic>=2.0.0
+click>=8.0.0
+tqdm>=4.65.0
+pyyaml>=6.0.0
+python-dotenv>=1.0.0
+# Development dependencies
+pytest>=7.0.0
+black>=23.0.0
+flake8>=6.0.0
+mypy>=1.0.0
+cmake==4.1.0

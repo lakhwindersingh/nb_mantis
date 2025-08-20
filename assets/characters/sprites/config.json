@@ -1,0 +1,22 @@
+{
+  "character_parts": {
+    "head": "head_neutral.png",
+    "body": "body_idle.png",
+    "left_hand": "hand_rest.png",
+    "right_hand": "hand_rest.png"
+  },
+  "expressions": {
+    "neutral": {
+      "eyes": "eyes_normal.png",
+      "mouth": "mouth_closed.png"
+    },
+    "happy": {
+      "eyes": "eyes_happy.png",
+      "mouth": "mouth_smile.png"
+    },
+    "surprised": {
+      "eyes": "eyes_wide.png",
+      "mouth": "mouth_open.png"
+    }
+  }
+}
